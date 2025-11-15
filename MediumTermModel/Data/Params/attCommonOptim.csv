@@ -1,0 +1,7 @@
+attCommun;value
+NameOptim;CortesSemanal_SistemaExpandido_200cenarios_DEFICIT1000_teste
+NbPeriods;4
+VolumeFlowConversion;0.0036
+MaxIte;100
+NrScenarios;200
+Tol;1.00E-10
